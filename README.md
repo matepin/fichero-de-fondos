@@ -3,7 +3,7 @@
 Página personal que centraliza fondos comunes de inversión, protegida con contraseña:
 
 - **Argentina**: datos oficiales de CAFCI y CNV, actualizados automáticamente cada día hábil.
-- **Internacional**: buscador y accesos directos a MKTSignals (funds.mktsignals.org), con una lista propia de fondos guardados en el navegador. Para verlo con la apariencia del Fichero: se configura una vez por dispositivo (Stylus, app Userscripts en Safari o marcador «Colores Fichero»); ver `estilos/LEEME.md`.
+- **Internacional**: buscador y accesos directos a MKTSignals (funds.mktsignals.org), con una lista propia de fondos guardados en el navegador. El Fichero usa los mismos colores y tipografía que MKTSignals.
 
 ## Contraseña
 
@@ -42,7 +42,6 @@ cd site && python -m http.server
 | `scripts/cafci.py` | Conector alternativo directo a CAFCI |
 | `scripts/test_parser.py` | Prueba del lector de fichas de CAFCI |
 | `site/index.html`, `site/app.js`, `site/app-ar.js`, `site/estilos.css` | La web (`app.js`: contraseña, pestañas e Internacional) |
-| `site/marcador.js`, `estilos/armar_marcador.py` | Marcador «Colores Fichero» para MKTSignals (generado; ver `estilos/LEEME.md`) |
 | `scripts/cifrar.py` | Cifra los datos con la contraseña |
 | `data/vcp/AAAA-MM.csv` | Historial diario de cuotaparte y patrimonio por clase |
 | `data/ultima-corrida.json` | Resumen de la última actualización |
