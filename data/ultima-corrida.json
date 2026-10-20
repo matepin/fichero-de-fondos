@@ -1,10 +1,10 @@
 {
-  "fecha": "2026-10-20T00:53+00:00",
+  "fecha": "2026-10-20T18:54+00:00",
   "fuente": "ArgentinaDatos (datos de CAFCI/CNV)",
-  "actualizacion_fuente": "2026-10-17T02:08:44.000Z",
-  "clases": 4787,
-  "con_datos": 4787,
-  "con_datos_recientes": 3917,
-  "historial_filas_nuevas": 0,
+  "actualizacion_fuente": "2026-10-19T23:50:26.000Z",
+  "clases": 4789,
+  "con_datos": 4789,
+  "con_datos_recientes": 3919,
+  "historial_filas_nuevas": 3902,
   "segundos": 2
 }
