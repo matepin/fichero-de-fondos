@@ -1,9 +1,9 @@
 {
- "fondos": 7683,
- "etfs": 3535,
- "clases": 51713,
+ "fondos": 7677,
+ "etfs": 3530,
+ "clases": 51686,
  "gestoras": 619,
- "datos_al": "2026-10-18",
- "consultado": "2026-10-24T00:57+00:00",
+ "datos_al": "2026-10-26",
+ "consultado": "2026-10-26T19:02+00:00",
  "fuente": "https://funds.mktsignals.org/"
 }
